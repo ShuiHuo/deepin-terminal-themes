@@ -9,6 +9,8 @@
 ### Ayu-light
 ![深度终端Ayu-light](截图/深度终端Ayu-light.png)
 
+![深度终端Ayu-mirage](截图/深度终端Ayu-mirage.png)
+
 ## 参考项目
 
 　　[ayu-colors](https://github.com/ayu-theme/ayu-colors)
