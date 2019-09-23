@@ -4,6 +4,11 @@
 
 　　将 `themes` 里面的文件复制到 `~/.config/deepin/deepin-terminal/themes` 即可。
 
+## 截图
+
+### Ayu-light
+![深度终端Ayu-light](截图/深度终端Ayu-light.png)
+
 ## 参考项目
 
 　　[ayu-colors](https://github.com/ayu-theme/ayu-colors)
