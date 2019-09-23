@@ -9,6 +9,7 @@
 ### Ayu-light
 ![深度终端Ayu-light](截图/深度终端Ayu-light.png)
 
+### Ayu-mirage
 ![深度终端Ayu-mirage](截图/深度终端Ayu-mirage.png)
 
 ## 参考项目
